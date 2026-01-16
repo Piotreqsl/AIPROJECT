@@ -1,0 +1,6 @@
+torch
+torchaudio
+omegaconf
+llama-cpp-python>=0.3.0
+numpy>=1.24.0
+num2words>=0.5.13
